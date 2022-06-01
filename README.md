@@ -1,4 +1,4 @@
-## Castle Itinerary Application
+# Castle Itinerary Application
 
 A university group project which allows the user to have a choice of 4 castles to visit for the day and provides a simple itinerary dependant on their choices.
 
@@ -12,7 +12,7 @@ The user may:
 7. Query their order to see the details again using their given order number and the email address used for that itinerary.
 
 
-# Stack and application info
+## Stack and application info
 
 - VueJS (frontend)
 - NodeJS with ExpressJS (backend)
